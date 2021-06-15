@@ -1,5 +1,5 @@
 # Estaciones hidrologicas de Colombia 
-Es un análisis y visualización de los diferentes tipos de estaciones hidrologicas que tiene el IDEAM en el territorio Nacinal. Se encontró los principales departamentos con mayor y menor capacidad instalada en lo relacionado a  estaciones hidricas 
+Es un análisis y visualización de los diferentes tipos de estaciones hidrológicas que tiene el IDEAM en el territorio Nacional. Se encontró los principales departamentos con mayor y menor capacidad instalada en lo relacionado con estaciones hídricas.
 
 ## ¿Qué debes saber?
 
