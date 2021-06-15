@@ -1,4 +1,5 @@
-#¿Qué debes saber?
+# ¿Qué debes saber?
+
 **1. Tipos de Estaciones Hidrológicas**
 
 *Pluviométrica:* Es una estación meteorológica dotada de un pluviómetro o recipiente que permite medir la cantidad de lluvia caída entre dos observaciones consecutivas
